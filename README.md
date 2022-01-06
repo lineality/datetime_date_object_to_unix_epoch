@@ -7,6 +7,7 @@ Python3 code
 
 from datetime import date, datetime
 
+# your date time object would be here
 just_a_date = date.today()
 
 # inspection
