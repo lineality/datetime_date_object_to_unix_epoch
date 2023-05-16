@@ -4,10 +4,8 @@ convert a datetime.date object into epoch time
 
 Readable String Timestamp
 ```
-# # Make a timestamp
-
-import datetime, calendar, time
-from datetime import date, datetime
+# # Make a Readable String timestamp
+from datetime import datetime
 
 # get time
 Sample_Time = datetime.utcnow()
